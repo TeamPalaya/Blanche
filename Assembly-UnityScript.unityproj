@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{A5256DA9-5557-4807-C0AC-0A553A71B305}</ProjectGuid>
+	<ProjectGuid>{AE86FBD6-F338-4CFD-A488-5ECE60C6C289}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,13 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Scripts\Blanche.cs" />
-     <Compile Include="Assets\Resources\Scripts\Bullet.cs" />
-     <Compile Include="Assets\Resources\Scripts\HelloWorld.cs" />
-     <Compile Include="Assets\Resources\Scripts\Movement.cs" />
-     <Compile Include="Assets\Resources\Scripts\SampleAttack.cs" />
-     <Compile Include="Assets\Resources\Scripts\Universe.cs" />
-     <Compile Include="Assets\Resources\Scripts\temptarget.cs" />
+     <Compile Include="Assets\Resources\Scripts\fireball.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

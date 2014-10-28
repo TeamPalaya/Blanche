@@ -11,12 +11,13 @@ public class Bullet : MonoBehaviour {
 		universe = GameObject.Find("Universe");
 		universeSS = universe.GetComponent<Universe>();
 
-		//Make the bullet fly forwards @start
-		//universeSS.Move(this.gameObject, 8, 70f);
+		//Make the bullet fly 
+		universeSS.Move(this.gameObject, 8, 70f);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		//universeSS.Move(this.gameObject, 8, 10f);
+		//
+		universeSS.Move(this.gameObject, 8, 10f);
 	}
 }
