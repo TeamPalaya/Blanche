@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+// By Kevin Munar
 public class SimpleFSM : FSM {
 
 	public enum FSMState
