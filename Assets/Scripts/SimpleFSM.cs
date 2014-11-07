@@ -86,7 +86,8 @@ public class SimpleFSM : FSM {
 		print ("Firing!");
 		Quaternion targetRotation = Quaternion.LookRotation(destPos - transform.position);
 		transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, Time.deltaTime * curRotSpeed);
-		shootBullet ();
+		 // AI shoots
+		 shootBullet ();
 	}
 
 	protected void UpdateDeadState()
@@ -98,12 +99,13 @@ public class SimpleFSM : FSM {
 		}
 	}
 
+	// Actual Shooting
 	private void shootBullet()
 	{
 		if(elapsedTime >= shootRate)
 		{
-			Instantiate(Bullet, bulletSpawnPoint.position,bulletSpawnPoint.rotation);
-			elapsedTime = 0.0f;
+			 Instantiate(Bullet, bulletSpawnPoint.position,bulletSpawnPoint.rotation);
+			 elapsedTime = 0.0f;
 		}
 	}
 
