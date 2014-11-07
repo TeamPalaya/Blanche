@@ -7,7 +7,8 @@ public class Bullet : MonoBehaviour {
 
 	public float speed = 0.05f;
 	public float LifeTime = 5.0f;
-	public int damage = 0;
+	
+	public int damage = 20;
 
 	// Use this for initialization
 	void Start () {
@@ -20,6 +21,7 @@ public class Bullet : MonoBehaviour {
 		print ("Bullet position = " + transform.position.x + " " + transform.position.y + " " + transform.position.z);
 	}
 	
+	// Destroy bullet
 	void OnCollisionEnter(Collision collision)
 	{
 		ContactPoint contact = collision.contacts [0];
