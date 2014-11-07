@@ -27,9 +27,10 @@ public class SimpleFSM : FSM {
 		elapsedTime = 0.0f;
 		shootRate = 1.0f;
 		health = 100;
-
-		GameObject objPlayer = GameObject.FindGameObjectWithTag ("Player");
-		playerTransform = objPlayer.transform;
+		
+		// Target Player
+		 GameObject objPlayer = GameObject.FindGameObjectWithTag ("Player");
+		 playerTransform = objPlayer.transform;
 
 		if (!playerTransform)
 						print ("Player doesn't exist. Please add one with Tag named 'Player'");
