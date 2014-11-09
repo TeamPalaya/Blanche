@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Resources\Scripts\Blanche.cs" />
-     <Compile Include="Assets\Resources\Scripts\Minion2Ranged.cs" />
+     <Compile Include="Assets\Resources\Scripts\Navigation.cs" />
      <Compile Include="Assets\Resources\Scripts\Universe.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
