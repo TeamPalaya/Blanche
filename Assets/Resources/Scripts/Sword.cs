@@ -20,7 +20,6 @@ public class Sword : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		CheckInput();
-		//Debug.Log (transform.rotation.y);
 	}
 
 	//
