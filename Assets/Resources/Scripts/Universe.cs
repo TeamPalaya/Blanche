@@ -10,7 +10,7 @@ public class Universe : MonoBehaviour {
 	public bool key_D = false;
 	public bool key_Space = false;
 	public bool key_F = false;
-
+	public bool key_J = false;
 
 	// Use this for initialization
 	void Start () {
@@ -22,6 +22,7 @@ public class Universe : MonoBehaviour {
 		CheckKeys();
 	}
 
+	//
 	public void CheckKeys () {
 		key_W = Input.GetKey(KeyCode.W);
 		key_A = Input.GetKey(KeyCode.A);
@@ -29,38 +30,6 @@ public class Universe : MonoBehaviour {
 		key_D = Input.GetKey(KeyCode.D);
 		key_Space = Input.GetKey(KeyCode.Space);
 		key_F = Input.GetKey(KeyCode.F);
-	}
-	
-	public void Move (GameObject moveThis, int direction, float speed) {
-		switch(direction){
-		case 9:
-			//moveThis.transform.LookAt(GameObject.Find("dir9").transform);
-			//moveThis.rigidbody.velocity = (moveThis.transform.forward * speed);
-
-			GameObject.Find("CamCube2").transform.LookAt(GameObject.Find("dir9").transform);
-			GameObject.Find("CamCube2").transform.forward = new Vector3(transform.forward.x, 0, transform.forward.z);
-			moveThis.rigidbody.velocity = (GameObject.Find("CamCube2").transform.forward * speed);
-			break;
-		case 8:
-			moveThis.rigidbody.velocity = (moveThis.transform.forward * speed);
-			break;
-		case 4:
-			moveThis.rigidbody.velocity = (moveThis.transform.right * -speed);
-			break;
-		case 2:
-			moveThis.rigidbody.velocity = (moveThis.transform.forward * -speed);
-			break;
-		case 6:
-			moveThis.rigidbody.velocity = (moveThis.transform.right * speed);
-			break;
-		default:
-			break;
-		}
-	}
-
-	public void Move (GameObject moveThis, bool isMoving) {
-		if (!isMoving){
-			moveThis.rigidbody.velocity = new Vector3(0, moveThis.rigidbody.velocity.y, 0);
-		}
+		key_J = Input.GetKey(KeyCode.J);
 	}
 }

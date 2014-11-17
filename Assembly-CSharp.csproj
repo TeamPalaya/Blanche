@@ -39,20 +39,24 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>E:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Resources\Minion1\Scripts\FSM.cs" />
+     <Compile Include="Assets\Resources\Minion1\Scripts\SimpleFSM.cs" />
      <Compile Include="Assets\Resources\Scripts\Blanche.cs" />
-     <Compile Include="Assets\Resources\Scripts\Bullet.cs" />
-     <Compile Include="Assets\Resources\Scripts\HelloWorld.cs" />
-     <Compile Include="Assets\Resources\Scripts\Movement.cs" />
-     <Compile Include="Assets\Resources\Scripts\SampleAttack.cs" />
+     <Compile Include="Assets\Resources\Scripts\BlancheModel.cs" />
+     <Compile Include="Assets\Resources\Scripts\CastFireball.cs" />
+     <Compile Include="Assets\Resources\Scripts\Fireball.cs" />
+     <Compile Include="Assets\Resources\Scripts\Ground.cs" />
+     <Compile Include="Assets\Resources\Scripts\LakituCam.cs" />
+     <Compile Include="Assets\Resources\Scripts\PlayerHitBox.cs" />
+     <Compile Include="Assets\Resources\Scripts\Sword.cs" />
      <Compile Include="Assets\Resources\Scripts\Universe.cs" />
-     <Compile Include="Assets\Resources\Scripts\temptarget.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
