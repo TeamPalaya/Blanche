@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Blanche.cs">
     <Files>
-      <File FileName="Assets\Scripts\SimpleFSM.cs" Line="115" Column="79" />
-      <File FileName="Assets\Resources\Scripts\Blanche.cs" Line="43" Column="54" />
+      <File FileName="Assets\Resources\Scripts\Blanche.cs" Line="117" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
