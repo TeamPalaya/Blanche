@@ -12,6 +12,8 @@ public class Blanche : MonoBehaviour {
 
 	//Var
 	private float speed = 0;
+	public float damageTimer = 0.0f;
+	public int health = 100;
 	public float groundSpeed = 25f;
 	public float airSpeed = 15f;
 	public float gravity = -20f;
@@ -30,6 +32,7 @@ public class Blanche : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		damageTimer += Time.deltaTime;
 		CheckInput();
 		//Debug.Log(rigidbody.velocity.magnitude);
 		//FaceDir();

@@ -30,6 +30,15 @@ public class Sword : MonoBehaviour {
 
 	}
 
+	void OnTriggerEnter(Collider collision)
+	{
+		if(collision.gameObject.tag == "Enemy" && swinging == true)
+		{
+			print ("I hit minion 1, Health is " + collision.GetComponent<SimpleFSM>().health);
+			collision.GetComponent<SimpleFSM>().health -= 10;
+		}
+	}
+
 	IEnumerator Swing () {
 		swinging = true;
 		sword.GetComponent<MeshRenderer>().enabled = true;
