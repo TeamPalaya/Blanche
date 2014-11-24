@@ -20,6 +20,18 @@ public class Fireball : MonoBehaviour {
 		transform.Translate(flyingPath * speed * Time.deltaTime);
 	}
 
+	void OnCollisionEnter(Collision collision)
+	{
+		print ("Fireball hit something");
+		if(collision.gameObject.tag == "Enemy")
+		{
+			print ("I hit minion 1 with fire!, Health is " + collision.gameObject.GetComponent<SimpleFSM>().health);
+			collision.gameObject.GetComponent<SimpleFSM>().health -= 20;
+		}
+		Destroy (this.gameObject);
+
+	}
+
 	IEnumerator TimeToDie (){
 		yield return new WaitForSeconds(2f);
 		GameObject.Destroy(this.gameObject);

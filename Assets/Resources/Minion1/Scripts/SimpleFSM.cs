@@ -81,11 +81,9 @@ public class SimpleFSM : FSM {
 	protected void UpdatePatrolState(){
 		if(Vector3.Distance(transform.position, destinationpos) <= 10.0f)
 		{
-			print ("A Point has been reached, getting next point");
 			FindNextPoint();
 		}else if(Vector3.Distance(transform.position,playerposition.position) <= 11.0f)
 		{
-			print ("Enemy spotted! Engaging!");
 			currentState = FSMState.Chase;
 		}
 
@@ -133,7 +131,6 @@ public class SimpleFSM : FSM {
 
 	protected void FindNextPoint()
 	{
-		print ("Finding next waypoint");
 		int rndIndex = Random.Range (0, pointList.Length);
 		float rndRadius = 5.0f;
 		Vector3 rndPosition = Vector3.zero;
