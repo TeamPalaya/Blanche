@@ -46,17 +46,23 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Minion1\Scripts\FSM.cs" />
      <Compile Include="Assets\Resources\Minion1\Scripts\SimpleFSM.cs" />
+     <Compile Include="Assets\Resources\Minion3-2\Scripts\Minion4FSM.cs" />
+     <Compile Include="Assets\Resources\Minion3-2\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Resources\Minion3-2\Scripts\Spawn.cs" />
+     <Compile Include="Assets\Resources\Minion3\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Resources\Minion3\Scripts\Minion3FSM.cs" />
      <Compile Include="Assets\Resources\Scripts\Blanche.cs" />
      <Compile Include="Assets\Resources\Scripts\BlancheModel.cs" />
      <Compile Include="Assets\Resources\Scripts\CastFireball.cs" />
+     <Compile Include="Assets\Resources\Scripts\FSM.cs" />
      <Compile Include="Assets\Resources\Scripts\Fireball.cs" />
      <Compile Include="Assets\Resources\Scripts\Ground.cs" />
      <Compile Include="Assets\Resources\Scripts\LakituCam.cs" />
      <Compile Include="Assets\Resources\Scripts\PlayerHitBox.cs" />
      <Compile Include="Assets\Resources\Scripts\Sword.cs" />
      <Compile Include="Assets\Resources\Scripts\Universe.cs" />
+     <None Include="Assets\Resources\Minion3\Models\Turret\Shaders\AlphaTest_Complete.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
