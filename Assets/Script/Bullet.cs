@@ -3,10 +3,8 @@ using System.Collections;
 
 public class Bullet : MonoBehaviour
 {
-    //Explosion Effect
-    public GameObject Explosion;
-
-    public float Speed = 0.2f;
+    
+    public float Speed = 10.0f;
     public float LifeTime = 5.0f;
     public int damage = 0;
 
@@ -24,7 +22,6 @@ public class Bullet : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         ContactPoint contact = collision.contacts[0];
-        Instantiate(Explosion, contact.point, Quaternion.identity);
         Destroy(gameObject);
     }
 }
