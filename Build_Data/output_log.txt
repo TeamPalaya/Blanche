@@ -1,0 +1,2332 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Alexandre\Documents\User menu\Build_Data\Managed\System.dll (this message is harmless)
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trying to add Handle (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Handle (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Fill (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Fill (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Background (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Background (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Text (UnityEngine.UI.Text) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Text (UnityEngine.UI.Text) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Panel (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to add Panel (UnityEngine.UI.Image) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.UI.ICanvasElement].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Canvas.SendWillRenderCanvases () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Trying to remove Handle (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Fill (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Text (UnityEngine.UI.Text) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Text (UnityEngine.UI.Text) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Text (UnityEngine.UI.Text) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Button (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Button (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Text (UnityEngine.UI.Text) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Button (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Image (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Background (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Trying to remove Panel (UnityEngine.UI.Image) from rebuild list while we are already inside a rebuild loop. This is not supported.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
