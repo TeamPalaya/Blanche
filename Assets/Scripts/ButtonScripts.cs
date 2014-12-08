@@ -3,7 +3,7 @@ using System.Collections;
 
 public class ButtonScripts : MonoBehaviour {
 
-	public GameObject optionsMenu, panel;
+	public GameObject optionsMenu;
 
 	// Use this for initialization
 	void Start () {
