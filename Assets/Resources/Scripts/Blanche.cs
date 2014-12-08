@@ -36,6 +36,10 @@ public class Blanche : MonoBehaviour {
 		CheckInput();
 		//Debug.Log(rigidbody.velocity.magnitude);
 		//FaceDir();
+
+		if (Input.GetKeyDown(KeyCode.R)){
+			Application.LoadLevel("ScnTest01");
+		}
 	}
 	
 	//
