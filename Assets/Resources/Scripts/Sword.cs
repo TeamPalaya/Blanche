@@ -32,10 +32,20 @@ public class Sword : MonoBehaviour {
 
 	void OnTriggerEnter(Collider collision)
 	{
+		SimpleFSM sfsm = (SimpleFSM)collision.GetComponent (typeof(SimpleFSM));
+		Minion3FSM m3fsm = (Minion3FSM)collision.GetComponent (typeof(Minion3FSM));
 		if(collision.gameObject.tag == "Enemy" && swinging == true)
 		{
-			print ("I hit minion 1, Health is " + collision.GetComponent<SimpleFSM>().health);
-			collision.GetComponent<SimpleFSM>().health -= 10;
+			if(m3fsm != null)
+			{
+				print ("I hit minion 3, Health is " + collision.GetComponent<Minion3FSM>().health);
+				collision.GetComponent<Minion3FSM>().health -= 10;
+			}else if(sfsm != null)
+			{
+				print ("I hit minion 1, Health is " + collision.GetComponent<SimpleFSM>().health);
+				collision.GetComponent<SimpleFSM>().health -= 20;
+			}
+
 		}
 	}
 
